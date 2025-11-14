@@ -1,162 +1,126 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm <strong>AlHussien Mustafa</strong>, Digital IC Designer & ASIC Verification Engineer 👨‍💻<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<div align="center">
 
-<h2 align="left">⚡ Digital Design & Verification Tools I Use:</h2<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm <strong>AlHussien Mustafa</strong>, Digital IC Designer & ASIC Verification Engineer 👨‍💻<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-<h2 align="left">⚡ Digital Design & Verification Tools I Use:</h2>
-<p align="left">
+### 👋 Hey there, I'm **AlHussien Mustafa**  
+### 🔥 Embedded Systems | Digital IC Design | ASIC Verification  
+### 🎓 Electronics & Communications Engineering – Helwan University
 
-    <!-- Digital Design -->
-    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge" alt="systemverilog" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/UVM-5B2C6F?style=for-the-badge" alt="uvm" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/SVA-1A5276?style=for-the-badge" alt="sva" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Vivado-FFBA00?style=for-the-badge&logo=xilinx&logoColor=black" alt="vivado" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/QuestaSim-1F618D?style=for-the-badge" alt="questasim" height="40"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=hessenmostafa&style=flat&color=orange&label=PROFILE+VIEWS)
 
-    <!-- Embedded -->
-    <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Embedded%20C-0A0A0A?style=for-the-badge" alt="embedded" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge" alt="avr" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Proteus-2C3E50?style=for-the-badge" alt="proteus" height="40"/></a>
+</div>
 
-    <!-- General Tools -->
-    <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="github" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="40"/></a>
+---
 
-</p>
+## 🚀 About Me  
+I’m a passionate and self-motivated **Electronics & Communications Engineering student (Senior)**  
+with strong experience in:
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+- 🔥 **Embedded Systems (AVR, ARM basics, RTOS, Drivers, Protocols)**  
+- ⚡ **Digital IC Design (Verilog, FSMs, Memories, FPGA)**  
+- 🧪 **ASIC Verification (SystemVerilog, UVM, SVA, CRV, Coverage)**  
+- 🤖 **Robotics (VEX IQ, Arduino, Sensors, Real-Time Control)**  
+- 🧩 **Machine Learning for Embedded (TinyML Projects)**  
+- 🎤 **Public Speaking & Technical Presentations**  
 
-- ⚡ **Digital IC Designer** with strong experience in  
-  **Verilog, FSMs, Memories, Clock Divider, UART TX, FPGA (Vivado & Basys3)**  
-- 🧪 **ASIC Verification Engineer (SV + UVM)**  
-  - Scoreboard, Monitor, Sequencer, Driver  
-  - Functional & Code Coverage  
-  - CRV, SVA, Automation (DO Files)  
+💼 Currently working as:  
+- **Robotics Instructor & Quality Manager** @ **Wiro Plus Company**  
+- **Embedded Systems Instructor** @ **The Way Company**  
+- **Chairman of IEEE Communication & Computer Societies – Helwan SB**  
+- **Official Speaker/Presenter** for The Way events  
 
-- 🔥 **Embedded Systems Engineer (ATmega32)**  
-  - Drivers, ADC, UART, PWM, EEPROM  
-  - Real hardware + Proteus + full C implementation  
+📌 Passionate about becoming a **Digital IC Design / Verification Engineer**.
 
-- 🎤 **Speaker, Instructor & Chairman @ IEEE CS & COMSOC – Helwan SB**  
-  - Delivered **700+ hours** of training  
-  - Taught Embedded, Digital Design & Robotics  
-  - Leading 3 committees and 9 technical tracks  
+---
 
-- 🤖 **Robotics Instructor & Quality Manager @ Wiro Plus Company**  
-  - Coaching teams for **VEX IQ International Qualifiers**  
-  - Building training roadmaps & managing teams  
+## 🛠️ Tech Stack
 
-- 🏆 **National Sumo Robot Champion – Representing Egypt in Japan**  
+### **Embedded & Low-Level**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
+![AVR](https://img.shields.io/badge/AVR-000000?style=flat)
+![RTOS](https://img.shields.io/badge/RTOS-1082FF?style=flat)
+![SPI](https://img.shields.io/badge/SPI-green?style=flat)
+![I2C](https://img.shields.io/badge/I2C-blue?style=flat)
+![UART](https://img.shields.io/badge/UART-orange?style=flat)
 
-- 🎯 Life Motto:  
-  <strong>"Keep building, keep learning, keep leading."</strong>
+### **Digital Design & Verification**
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-aqua?style=flat)
+![UVM](https://img.shields.io/badge/UVM-purple?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?style=flat&logo=xilinx)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-143?style=flat)
+![Vivado](https://img.shields.io/badge/Vivado-319795?style=flat)
 
-<br>
+### **Prototyping & Robotics**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF8C00?style=flat)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=flat)
 
-<h2 align="left">📂 Featured Projects:</h2>
+### **General Tools**
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
 
-- 🔹 **SPI Slave with Single-Port RAM – Verilog + QuestaSim**
-- 🔹 **Multi-Channel PWM Controller – FPGA**
-- 🔹 **ALSU Verification – SystemVerilog + UVM**
-- 🔹 **Security System (Voice Commands + Embedded ML + ATmega32)**
-- 🔹 **Fire Detection & LCD Dino Game – ATmega32**
+---
 
-<br>
+## 📘 Featured Projects
 
-<h2 align="left">❤️ Let's Connect:</h2>
+### 🔹 **🚨 Security System with Voice Commands (Embedded ML + ATmega32)**
+- Control lights, door, and fan with voice recognition  
+- Integrated UART, ADC, PWM, and EEPROM  
+- Complete hardware + Proteus simulation  
+👉 *[GitHub Repository](#)*
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlHussienMostafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
-[![Facebook Badge](https://img.shields.io/badge/-Hussien.Mustafa-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hessen.mostafa.735/)](https://www.facebook.com/hessen.mostafa.735/)
-[![GitHub Badge](https://img.shields.io/badge/-hessenmostafa-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hessenmostafa/)](https://github.com/hessenmostafa/)
+### 🔹 **🔥 Fire Detection & Dinosaur Game System (ATmega32)**
+- Flame sensor + IR detection  
+- LCD-based game with scoring system  
+- Full Embedded C drivers  
+👉 *[GitHub Repository](#)*
 
+### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
+- Dynamic duty-cycle update  
+- Multi-clock domain support  
+👉 *[GitHub Repository](#)*
 
-<p align="left">
+### 🔹 **📡 SPI Slave with Single-Port RAM**
+- Gray & One-Hot FSM  
+- Verified in QuestaSim + Timing closure  
+👉 *[GitHub Repository](#)*
 
-    <!-- Digital Design -->
-    <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge" alt="systemverilog" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/UVM-5B2C6F?style=for-the-badge" alt="uvm" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/SVA-1A5276?style=for-the-badge" alt="sva" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Vivado-FFBA00?style=for-the-badge&logo=xilinx&logoColor=black" alt="vivado" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/QuestaSim-1F618D?style=for-the-badge" alt="questasim" height="40"/></a>
+---
 
-    <!-- Embedded -->
-    <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Embedded%20C-0A0A0A?style=for-the-badge" alt="embedded" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge" alt="avr" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/Proteus-2C3E50?style=for-the-badge" alt="proteus" height="40"/></a>
+## 🎖️ Achievements
+- 🏆 **1st place – National Sumo Robot Competition (Egypt)**  
+→ Qualified to represent Egypt in **Japan**  
+- 🎤 Delivered 700+ training hours to 1000++ students through IEEE  
+- 🤖 Coached teams for **VEX Robotics International Qualification (USA)**
 
-    <!-- General Tools -->
-    <a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="github" height="40"/></a>
-    <a><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="40"/></a>
+---
 
-</p>
+## 📚 Training & Diplomas
+- **ITI Embedded Systems – AVR (162 hours)**  
+- **Digital IC Design Diploma – Verilog, FPGA, STA**  
+- **Digital IC Verification Diploma – SV, UVM, SVA**  
+- **IoT Training – ITI**  
+- **PCB Signal Integrity – Helwan University**
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- ⚡ **Digital IC Designer** with strong experience in  
-  **Verilog, FSMs, Memories, Clock Divider, UART TX, FPGA (Vivado & Basys3)**  
-- 🧪 **ASIC Verification Engineer (SV + UVM)**  
-  - Scoreboard, Monitor, Sequencer, Driver  
-  - Functional & Code Coverage  
-  - CRV, SVA, Automation (DO Files)  
+## 🤙 Connect with Me
 
-- 🔥 **Embedded Systems (ATmega32)**  
-  - Drivers, ADC, UART, PWM, EEPROM  
-  - Real hardware + Proteus + full C implementation  
+<div align="center">
 
-- 🎤 **Speaker & Embedded Systems Instructor @ The Way Academy**
-  - Instructor for **two specialized Arduino & Robotics courses** for kids aged **8–16**
-  - Representing the academy at **events, competitions, and university showcases**
-  - Delivering hands-on STEM education using practical electronics & coding projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlHussienMostafa-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-hessenmostafa-black?logo=github)](https://github.com/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Hussien%20Mustafa-1877F2?logo=facebook)](https://www.facebook.com/hessen.mostafa.735/)
 
-- 🎤 **Chairman @ IEEE Communication & Computer Chapters – Helwan SB**
-  - Leading **700+ training hours** across Digital Design, Verification, Embedded Systems & Robotics
-  - Managing **2 chapters** and supervising **7 technical tracks**
-  - Building and training specialized tech teams, organizing competitions & delivering high-level sessions
+</div>
 
+---
 
-- 🤖 **Robotics Instructor & Quality Manager @ Wiro Plus Company**  
-  - Coaching teams for **VEX IQ International Qualifiers**  
-  - Building training roadmaps & managing teams  
-
-- 🏆 **National Sumo Robot Champion – Representing Egypt in Japan**  
-
-- 🎯 Life Motto:  
-  <strong>"Keep building, keep learning, keep leading."</strong>
-
-<br>
-
-<h2 align="left">📂 Featured Projects:</h2>
-
-- 🔹 **SPI Slave with Single-Port RAM – Verilog + QuestaSim**
-- 🔹 **Multi-Channel PWM Controller – FPGA**
-- 🔹 **ALSU Verification – SystemVerilog + UVM**
-- 🔹 **Security System (Voice Commands + Embedded ML + ATmega32)**
-- 🔹 **Fire Detection & LCD Dino Game – ATmega32**
-
-<br>
-
-<h2 align="left">❤️ Let's Connect:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-AlHussienMostafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
-[![Facebook Badge](https://img.shields.io/badge/-Hussien.Mustafa-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/hessen.mostafa.735/)](https://www.facebook.com/hessen.mostafa.735/)
-[![GitHub Badge](https://img.shields.io/badge/-hessenmostafa-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/hessenmostafa/)](https://github.com/hessenmostafa/)
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />  
+<strong>Keep Building • Keep Learning • Keep Inspiring</strong>
+</div>
