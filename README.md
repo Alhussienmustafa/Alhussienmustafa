@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 ### 👋 Hey there, I'm **AlHussien Mustafa**  
 ### 🔥 Embedded Systems | Digital IC Design | ASIC Verification  
@@ -17,24 +16,32 @@
 I’m a passionate and self-motivated **Electronics & Communications Engineering student (Senior)**  
 with strong experience in:
 
-- 🔥 **Embedded Systems (AVR, ARM basics, RTOS, Drivers, Protocols)**  
 - ⚡ **Digital IC Design (Verilog, FSMs, Memories, FPGA)**  
 - 🧪 **ASIC Verification (SystemVerilog, UVM, SVA, CRV, Coverage)**  
-- 🤖 **Robotics (VEX IQ, Arduino, Sensors, Real-Time Control)**  
-- 🧩 **Machine Learning for Embedded (TinyML Projects)**  
+- 🔥 **Embedded Systems (AVR, Drivers, Protocols)**  
+- 🤖 **Robotics (VEX, Arduino, Sensors, Real-Time Control)**   
 - 🎤 **Public Speaking & Technical Presentations**  
 
 💼 Currently working as:  
 - **Robotics Instructor & Quality Manager** @ **Wiro Plus Company**  
 - **Embedded Systems Instructor** @ **The Way Company**  
-- **Chairman of IEEE Communication & Computer Societies – Helwan SB**  
-- **Official Speaker/Presenter** for The Way events  
+- **Ex-Chairman of IEEE Communication & Computer Societies – Helwan SB**  
+- **Official Speaker/Presenter** for The Way Company events  
 
 📌 Passionate about becoming a **Digital IC Design / Verification Engineer**.
 
 ---
 
 ## 🛠️ Tech Stack
+
+### **Digital Design & Verification**
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-aqua?style=flat)
+![UVM](https://img.shields.io/badge/UVM-purple?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?style=flat&logo=xilinx)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-143?style=flat)
+![Vivado](https://img.shields.io/badge/Vivado-319795?style=flat)
+
 
 ### **Embedded & Low-Level**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -45,13 +52,6 @@ with strong experience in:
 ![I2C](https://img.shields.io/badge/I2C-blue?style=flat)
 ![UART](https://img.shields.io/badge/UART-orange?style=flat)
 
-### **Digital Design & Verification**
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-aqua?style=flat)
-![UVM](https://img.shields.io/badge/UVM-purple?style=flat)
-![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?style=flat&logo=xilinx)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-143?style=flat)
-![Vivado](https://img.shields.io/badge/Vivado-319795?style=flat)
 
 ### **Prototyping & Robotics**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
@@ -67,6 +67,16 @@ with strong experience in:
 
 ## 📘 Featured Projects
 
+### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
+- Dynamic duty-cycle update  
+- Multi-clock domain support  
+👉 *[GitHub Repository](#)*
+
+### 🔹 **📡 SPI Slave with Single-Port RAM**
+- Gray & One-Hot FSM  
+- Verified in QuestaSim + Timing closure  
+👉 *[GitHub Repository](#)*
+
 ### 🔹 **🚨 Security System with Voice Commands (Embedded ML + ATmega32)**
 - Control lights, door, and fan with voice recognition  
 - Integrated UART, ADC, PWM, and EEPROM  
@@ -79,15 +89,6 @@ with strong experience in:
 - Full Embedded C drivers  
 👉 *[GitHub Repository](#)*
 
-### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
-- Dynamic duty-cycle update  
-- Multi-clock domain support  
-👉 *[GitHub Repository](#)*
-
-### 🔹 **📡 SPI Slave with Single-Port RAM**
-- Gray & One-Hot FSM  
-- Verified in QuestaSim + Timing closure  
-👉 *[GitHub Repository](#)*
 
 ---
 
