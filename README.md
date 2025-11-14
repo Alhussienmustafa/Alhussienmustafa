@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-### 👋 Hey there, I'm **AlHussien Mustafa**  
-### 🔥 Embedded Systems | Digital IC Design | ASIC Verification  
+### 👋 Hey! Nice to see you, I'm **AlHussien Mustafa**  
+### 🔥 Digital IC Design | ASIC Verification | Embedded Systems
 ### 🎓 Electronics & Communications Engineering – Helwan University
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hessenmostafa&style=flat&color=orange&label=PROFILE+VIEWS)
