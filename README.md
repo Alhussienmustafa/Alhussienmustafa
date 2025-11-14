@@ -1,16 +1,126 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alhussienmustafa/Alhussienmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-Here are some ideas to get you started:
+### 👋 Hey there, I'm **AlHussien Mustafa**  
+### 🔥 Embedded Systems | Digital IC Design | ASIC Verification  
+### 🎓 Electronics & Communications Engineering – Helwan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=hessenmostafa&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🚀 About Me  
+I’m a passionate and self-motivated **Electronics & Communications Engineering student (Senior)**  
+with strong experience in:
+
+- 🔥 **Embedded Systems (AVR, ARM basics, RTOS, Drivers, Protocols)**  
+- ⚡ **Digital IC Design (Verilog, FSMs, Memories, FPGA)**  
+- 🧪 **ASIC Verification (SystemVerilog, UVM, SVA, CRV, Coverage)**  
+- 🤖 **Robotics (VEX IQ, Arduino, Sensors, Real-Time Control)**  
+- 🧩 **Machine Learning for Embedded (TinyML Projects)**  
+- 🎤 **Public Speaking & Technical Presentations**  
+
+💼 Currently working as:  
+- **Robotics Instructor & Quality Manager** @ **Wiro Plus Company**  
+- **Embedded Systems Instructor** @ **The Way Company**  
+- **Chairman of IEEE Communication & Computer Societies – Helwan SB**  
+- **Official Speaker/Presenter** for The Way events  
+
+📌 Passionate about becoming a **Digital IC Design / Verification Engineer**.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Embedded & Low-Level**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
+![AVR](https://img.shields.io/badge/AVR-000000?style=flat)
+![RTOS](https://img.shields.io/badge/RTOS-1082FF?style=flat)
+![SPI](https://img.shields.io/badge/SPI-green?style=flat)
+![I2C](https://img.shields.io/badge/I2C-blue?style=flat)
+![UART](https://img.shields.io/badge/UART-orange?style=flat)
+
+### **Digital Design & Verification**
+![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-aqua?style=flat)
+![UVM](https://img.shields.io/badge/UVM-purple?style=flat)
+![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?style=flat&logo=xilinx)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-143?style=flat)
+![Vivado](https://img.shields.io/badge/Vivado-319795?style=flat)
+
+### **Prototyping & Robotics**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![TinkerCAD](https://img.shields.io/badge/TinkerCAD-FF8C00?style=flat)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=flat)
+
+### **General Tools**
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+
+---
+
+## 📘 Featured Projects
+
+### 🔹 **🚨 Security System with Voice Commands (Embedded ML + ATmega32)**
+- Control lights, door, and fan with voice recognition  
+- Integrated UART, ADC, PWM, and EEPROM  
+- Complete hardware + Proteus simulation  
+👉 *[GitHub Repository](#)*
+
+### 🔹 **🔥 Fire Detection & Dinosaur Game System (ATmega32)**
+- Flame sensor + IR detection  
+- LCD-based game with scoring system  
+- Full Embedded C drivers  
+👉 *[GitHub Repository](#)*
+
+### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
+- Dynamic duty-cycle update  
+- Multi-clock domain support  
+👉 *[GitHub Repository](#)*
+
+### 🔹 **📡 SPI Slave with Single-Port RAM**
+- Gray & One-Hot FSM  
+- Verified in QuestaSim + Timing closure  
+👉 *[GitHub Repository](#)*
+
+---
+
+## 🎖️ Achievements
+- 🏆 **1st place – National Sumo Robot Competition (Egypt)**  
+→ Qualified to represent Egypt in **Japan**  
+- 🎤 Delivered 700+ training hours to 1000++ students through IEEE  
+- 🤖 Coached teams for **VEX Robotics International Qualification (USA)**
+
+---
+
+## 📚 Training & Diplomas
+- **ITI Embedded Systems – AVR (162 hours)**  
+- **Digital IC Design Diploma – Verilog, FPGA, STA**  
+- **Digital IC Verification Diploma – SV, UVM, SVA**  
+- **IoT Training – ITI**  
+- **PCB Signal Integrity – Helwan University**
+
+---
+
+## 🤙 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AlHussienMostafa-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-hessenmostafa-black?logo=github)](https://github.com/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Hussien%20Mustafa-1877F2?logo=facebook)](https://www.facebook.com/hessen.mostafa.735/)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />  
+<strong>Keep Building • Keep Learning • Keep Inspiring</strong>
+</div>
