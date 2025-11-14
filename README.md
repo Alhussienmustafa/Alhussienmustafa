@@ -70,7 +70,7 @@ with strong experience in:
 ### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
 - Dynamic duty-cycle update  
 - Multi-clock domain support  
-👉 [*[GitHub Repository](https://github.com/Alhussienmustafa/multi-channel-pwm-timer-core)*]
+👉 [*[GitHub Repository](https://github.com/Alhussienmustafa/multi-channel-pwm-timer-core.git))*]
 
 ### 🔹 **📡 SPI Slave with Single-Port RAM**
 - Gray & One-Hot FSM  
