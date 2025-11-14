@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 ### 👋 Hey! Nice to see you, I'm **AlHussien Mustafa**  
-### 🔥 Digital IC Design | ASIC Verification | Embedded Systems
+### 🔥 Digital IC Design | ASIC Verification | Embedded Systems  
 ### 🎓 Electronics & Communications Engineering – Helwan University
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hessenmostafa&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -20,7 +20,7 @@ with strong experience in:
 - 🧪 **ASIC Verification (SystemVerilog, UVM, SVA, CRV, Coverage)**  
 - 🔥 **Embedded Systems (AVR, Drivers, Protocols)**  
 - 🤖 **Robotics (VEX, Arduino, Sensors, Real-Time Control)**   
-- 🎤 **Public Speaking & Technical Presentations**  
+- 🎤 **Public Speaking & Technical Presentations**
 
 💼 Currently working as:  
 - **Robotics Instructor & Quality Manager** @ **Wiro Plus Company**  
@@ -40,6 +40,7 @@ with strong experience in:
 ![UVM](https://img.shields.io/badge/UVM-purple?style=flat)
 ![FPGA](https://img.shields.io/badge/FPGA-0A0A0A?style=flat&logo=xilinx)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-143?style=flat)
+![QuestaLint](https://img.shields.io/badge/QuestaLint-6A5ACD?style=flat)
 ![Vivado](https://img.shields.io/badge/Vivado-319795?style=flat)
 
 
@@ -47,7 +48,6 @@ with strong experience in:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B)
 ![AVR](https://img.shields.io/badge/AVR-000000?style=flat)
-![RTOS](https://img.shields.io/badge/RTOS-1082FF?style=flat)
 ![SPI](https://img.shields.io/badge/SPI-green?style=flat)
 ![I2C](https://img.shields.io/badge/I2C-blue?style=flat)
 ![UART](https://img.shields.io/badge/UART-orange?style=flat)
@@ -61,7 +61,7 @@ with strong experience in:
 ### **General Tools**
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat)
+![Sublime](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat)
 
 ---
 
@@ -77,18 +77,26 @@ with strong experience in:
 - Verified in QuestaSim + Timing closure  
 👉 *[GitHub Repository](#)*
 
+### 🔹 **⚙️ DSP48A1 Slice Design (Spartan-6 FPGA)**
+- Designed a configurable DSP slice (MAC, cascaded PCOUT)  
+- Fully verified in **QuestaSim**  
+👉 *[GitHub Repository](#)*
+
+### 🔹 **🏠 Smart Home System (Dual AVR – ITI Embedded Project)**
+- 2 AVR MCUs communicating via **I2C, SPI, UART**  
+- Manual + Bluetooth control (lights, fans, sensors)  
+- EEPROM-based data storage  
+👉 *[GitHub Repository](#)*
+
 ### 🔹 **🚨 Security System with Voice Commands (Embedded ML + ATmega32)**
-- Control lights, door, and fan with voice recognition  
-- Integrated UART, ADC, PWM, and EEPROM  
-- Complete hardware + Proteus simulation  
+- Control lights, door, and fan using voice recognition  
+- Integrated UART, ADC, PWM, EEPROM  
 👉 *[GitHub Repository](#)*
 
 ### 🔹 **🔥 Fire Detection & Dinosaur Game System (ATmega32)**
-- Flame sensor + IR detection  
-- LCD-based game with scoring system  
-- Full Embedded C drivers  
+- Flame + IR detection  
+- LCD-based game with scoring  
 👉 *[GitHub Repository](#)*
-
 
 ---
 
