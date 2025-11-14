@@ -109,9 +109,9 @@ with strong experience in:
 ---
 
 ## 📚 Training & Diplomas
-- **ITI Embedded Systems – AVR (162 hours)**  
 - **Digital IC Design Diploma – Verilog, FPGA, STA**  
 - **Digital IC Verification Diploma – SV, UVM, SVA**  
+- **ITI Embedded Systems – AVR (162 hours)**  
 - **IoT Training – ITI**  
 - **PCB Signal Integrity – Helwan University**
 
