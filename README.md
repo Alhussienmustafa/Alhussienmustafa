@@ -75,18 +75,18 @@ with strong experience in:
 ### 🔹 **📡 SPI Slave with Single-Port RAM**
 - Gray & One-Hot FSM  
 - Verified in QuestaSim + Timing closure  
-👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/SPI_Project)
+👉 [*[GitHub Repository](https://github.com/Alhussienmustafa/SPI_Project)*]
 
 ### 🔹 **⚙️ DSP48A1 Slice Design (Spartan-6 FPGA)**
 - Designed a configurable DSP slice (MAC, cascaded PCOUT)  
 - Fully verified in **QuestaSim**  
-👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/DSP48A1-Design)
+👉 [*[GitHub Repository](https://github.com/Alhussienmustafa/DSP48A1-Design)*]
 
 ### 🔹 **🏠 Smart Home System (Dual AVR – ITI Embedded Project)**
 - 2 AVR MCUs communicating via **I2C, SPI, UART**  
 - Manual + Bluetooth control (lights, fans, sensors)  
 - EEPROM-based data storage  
-👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/Smart-Home-Automation-System-Dual-Microcontroller-.git)
+👉 [*[GitHub Repository](https://github.com/Alhussienmustafa/Smart-Home-Automation-System-Dual-Microcontroller-.git)*]
 
 ### 🔹 **🚨 Security System with Voice Commands (Embedded ML + ATmega32)**
 - Control lights, door, and fan using voice recognition  
