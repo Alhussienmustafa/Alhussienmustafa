@@ -70,17 +70,17 @@ with strong experience in:
 ### 🔹 **🧩 Multi-Channel PWM Core (FPGA / Verilog)**
 - Dynamic duty-cycle update  
 - Multi-clock domain support  
-👉 *[GitHub Repository](#)*
+👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/multi-channel-pwm-timer-core)
 
 ### 🔹 **📡 SPI Slave with Single-Port RAM**
 - Gray & One-Hot FSM  
 - Verified in QuestaSim + Timing closure  
-👉 *[GitHub Repository](#)*
+👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/SPI_Project)
 
 ### 🔹 **⚙️ DSP48A1 Slice Design (Spartan-6 FPGA)**
 - Designed a configurable DSP slice (MAC, cascaded PCOUT)  
 - Fully verified in **QuestaSim**  
-👉 *[GitHub Repository](#)*
+👉 [*[GitHub Repository](#)*](https://github.com/Alhussienmustafa/DSP48A1-Design)
 
 ### 🔹 **🏠 Smart Home System (Dual AVR – ITI Embedded Project)**
 - 2 AVR MCUs communicating via **I2C, SPI, UART**  
