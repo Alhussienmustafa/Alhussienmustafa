@@ -25,8 +25,8 @@ with strong experience in:
 💼 Currently working as:  
 - **Robotics Instructor & Quality Manager** @ **Wiro Plus Company**  
 - **Embedded Systems Instructor** @ **The Way Company**  
-- **Ex-Chairman of IEEE Communication & Computer Societies – Helwan SB**  
 - **Official Speaker/Presenter** for The Way Company events  
+- **Ex-Chairman of IEEE Communication & Computer Societies – Helwan SB**  
 
 📌 Passionate about becoming a **Digital IC Design / Verification Engineer**.
 
